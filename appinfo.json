@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mcr@sandelman.ca",
+    "longName": "grump",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/grumpycat.png",
+                "name": "GRUMPY",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "grump",
+    "uuid": "66e07935-2793-4e67-a16e-4cacddd36786",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
